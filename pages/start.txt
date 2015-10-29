@@ -6,6 +6,6 @@ Welcome
 
 ## Welcome
 
-  - 1. oneone
-  - 2. twotwo
-  - 3. threethree
+  - 1. [[wiki:one|one]]
+  - 2. two
+  - 3. three
