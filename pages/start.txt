@@ -147,8 +147,8 @@ Download
 
 
 ----------
-{{:wiki:公司通讯录_2015.7.6更新_.xlsx|}}
-{{:wiki:bestours-003_报销申请单_v1.1_3_.xlsx|}}
+* {{:wiki:公司通讯录_2015.7.6更新_.xlsx|}}
+* {{:wiki:bestours-003_报销申请单_v1.1_3_.xlsx|}}
 
 ----------
 :!: **More suggestion please jump to the message board.**
