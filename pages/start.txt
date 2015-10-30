@@ -1,5 +1,42 @@
-====== 欢迎进入邮轮旅游知识分享平台 ======
+Welcome to the World cruises (ylly )knowledge sharing platform
+======
+Quiuick Start Guide
+-------------------
 
+  * Markdown grammar help [[http://wowubuntu.com/markdown/]]
+  * DokuWiki Manual help  [https://www.dokuwiki.org/manual)]
+
+
+  * [[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
+  * [[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
+
+More suggestion please jump to the message board.
+[URL]
+
+The current support functions
+-------------------
+
+ - WYSIWYG Git 
+
+ - Git Backend
+
+ - Markdown
+
+Will support the function
+-------------------------
+
+ - History Cleanup [plugin:clearhistory](https://www.dokuwiki.org/plugin:clearhistory)
+
+ - Insert table  [plugin:edittable](https://www.dokuwiki.org/plugin:edittable) 
+
+ - Create a list of navigation [plugin:indexmenu](https://www.dokuwiki.org/plugin:indexmenu) 
+
+ - Add comments area [plugin:discussion](https://www.dokuwiki.org/plugin:discussion)
+
+ - Add New Page [plugin:addnewpage](https://www.dokuwiki.org/plugin:addnewpage)
+
+ - Searchindex [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
+ - Translation [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
 ===== Welcome =====
 
 1. [one](wiki:one)
