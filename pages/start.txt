@@ -97,6 +97,11 @@ This page contains a summary of changes between the official DokuWiki releases. 
 
 Changes marked with :!: need some attention on upgrading!
 
+- FIXME 1
+
+- FIXME 2
+
+- FIXME 3
 
 
 ----------
