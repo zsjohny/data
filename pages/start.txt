@@ -107,4 +107,4 @@ Changes marked with :!: need some attention on upgrading!
 ----------
 :!: **More suggestion please jump to the message board.**
 
-[[[URL]]]
+[[[Message board]]]
