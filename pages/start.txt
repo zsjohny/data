@@ -18,8 +18,8 @@ Quiuick Start Guide
   * Formatting Syntax [[wiki:syntax]]
 
 
-  * [[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
-  * [[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
+  * :?:[[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
+  * :?:[[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
 
 The current support functions
 -------------------
