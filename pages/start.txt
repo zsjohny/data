@@ -78,7 +78,7 @@ This page is a collection of questions that occur from time to time.
 **Installation, Configuration, Troubleshooting**
 
 - [[I forgot my password]]
-- 2
+- [[Why is there no login button?]]
 - 3
 
 
