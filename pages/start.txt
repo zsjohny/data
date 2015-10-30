@@ -34,6 +34,8 @@ The current support functions
 
  * Markdown
 
+ * UI Language Plugin
+
 Will support the function
 -------------------------
 
