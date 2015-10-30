@@ -20,8 +20,7 @@ Quiuick Start Guide
   * [[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
   * [[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
 
-More suggestion please jump to the message board.
-[[[URL]]]
+
 
 The current support functions
 -------------------
@@ -96,3 +95,10 @@ Changelog
 This page contains a summary of changes between the official DokuWiki releases. Only the biggest changes are listed here. A complete and detailed log of all changes is available through the [[http://docs.ylly.co/release_notes.html|YLLY DOCS]].
 
 Changes marked with :!: need some attention on upgrading!
+
+
+
+----------
+:!: **More suggestion please jump to the message board.**
+
+[[[URL]]]
