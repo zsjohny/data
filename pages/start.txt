@@ -37,8 +37,3 @@ Will support the function
 
  - Searchindex [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
  - Translation [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
-===== Welcome =====
-
-1. [one](wiki:one)
-2. [two](wiki:two)
-3. [three](wiki:three)
