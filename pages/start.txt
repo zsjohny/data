@@ -12,9 +12,10 @@ Quiuick Start Guide
 ----------
 
 
-  * Markdown grammar help [[http://wowubuntu.com/markdown/]]
-  * DokuWiki Manual help  [https://www.dokuwiki.org/manual)]
-  * YLLYWiki Manual help  [[ylly_manual]]
+  * Markdown grammar [help](http://wowubuntu.com/markdown/)
+  * DokuWiki Manual [help](https://www.dokuwiki.org/manual)
+  * YLLYWiki Manual [help](ylly_manual)
+  * DokuWiki Syntax [help](https://www.dokuwiki.org/wiki:syntax)
 
 
 
