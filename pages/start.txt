@@ -1,6 +1,6 @@
 Welcome to the World cruises Wiki
 =====
-
+{{ :wiki:dokuwiki-128.png?200|}}
 
 ----------
 
