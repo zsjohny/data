@@ -62,9 +62,9 @@ Will support the function
 
  * Backup page, revision history, media, configuration, etc. All the content [plugin:backup](https://www.dokuwiki.org/plugin%3Abackup) 
 
- * Create a simple, checkbox based ToDo List [ToDo Plugin] (https://www.dokuwiki.org/plugin%3Atodo)
+ * Create a simple, checkbox based ToDo List [ToDo Plugin](https://www.dokuwiki.org/plugin%3Atodo)
 
- * Present a table of contents of the pages of a selected namespace [Note Plugin] (https://www.dokuwiki.org/plugin%3Anote)
+ * Present a table of contents of the pages of a selected namespace [Note Plugin](https://www.dokuwiki.org/plugin%3Anote)
 
 
 
