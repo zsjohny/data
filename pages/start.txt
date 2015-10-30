@@ -14,13 +14,12 @@ Quiuick Start Guide
 
   * Markdown grammar help [[http://wowubuntu.com/markdown/]]
   * DokuWiki Manual help  [https://www.dokuwiki.org/manual)]
-  * YLLYWiki Manual help  [[URL]]
+  * YLLYWiki Manual help  [[ylly_manual]]
+  * Formatting Syntax [[wiki:syntax]]
 
 
   * [[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
   * [[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
-
-
 
 The current support functions
 -------------------
