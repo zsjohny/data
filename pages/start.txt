@@ -12,7 +12,7 @@ Quiuick Start Guide
   * [[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
 
 More suggestion please jump to the message board.
-[URL]
+[[[URL]]]
 
 The current support functions
 -------------------
