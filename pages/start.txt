@@ -53,6 +53,7 @@ Will support the function
  - Add New Page [plugin:addnewpage](https://www.dokuwiki.org/plugin:addnewpage)
 
  - Searchindex [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
+
  - Translation [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
 
 
