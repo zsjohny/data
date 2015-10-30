@@ -29,13 +29,13 @@ The current support functions
 ----------
 
 
- * WYSIWYG Git 
+ * [WYSIWYG](https://www.dokuwiki.org/plugin:wysiwyg)
 
- * Git Backend
+ * [Git Backend](https://www.dokuwiki.org/plugin:gitbacked)
 
- * Markdown
+ * [Markdown](https://www.dokuwiki.org/plugin:markdown)
 
- * UI Language Plugin
+ * [UI Language](https://www.dokuwiki.org/plugin:uilanguage?s[]=dokuwiki&s[]=plugin&s[]=uilanguage)
 
 Will support the function
 -------------------------
