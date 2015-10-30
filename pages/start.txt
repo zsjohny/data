@@ -134,7 +134,6 @@ Changelog
 
 This page contains a summary of changes between the official DokuWiki releases. Only the biggest changes are listed here. A complete and detailed log of all changes is available through the [[http://docs.ylly.co/release_notes.html|YLLY DOCS]].
 
-Changes marked with :!: need some attention on upgrading!
 
 - FIXME **fix javascript link not compatibility with ie**
 
