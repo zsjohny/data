@@ -1,8 +1,16 @@
 Welcome to the World cruises Wiki
 =====
-=
+
+
+----------
+
+
 Quiuick Start Guide
 -------------------
+
+
+----------
+
 
   * Markdown grammar help [[http://wowubuntu.com/markdown/]]
   * DokuWiki Manual help  [https://www.dokuwiki.org/manual)]
@@ -18,6 +26,10 @@ More suggestion please jump to the message board.
 The current support functions
 -------------------
 
+
+----------
+
+
  - WYSIWYG Git 
 
  - Git Backend
@@ -26,6 +38,10 @@ The current support functions
 
 Will support the function
 -------------------------
+
+
+----------
+
 
  - History Cleanup [plugin:clearhistory](https://www.dokuwiki.org/plugin:clearhistory)
 
@@ -39,3 +55,44 @@ Will support the function
 
  - Searchindex [plugin:searchindex](https://www.dokuwiki.org/plugin:searchindex) 
  - Translation [plugin:translation](https://www.dokuwiki.org/plugin:translation) 
+
+
+Frequently Asked Questions
+--------------------------
+
+
+----------
+
+
+This page is a collection of questions that occur from time to time.
+
+:!: New questions are added by the core developer team only if they really are frequent, so do not add questions here.
+
+**General**
+
+- 1
+- 2
+- 3
+
+**Installation, Configuration, Troubleshooting**
+
+- 1
+- 2
+- 3
+
+
+**Usage**
+
+- 1
+- 2
+- 3
+
+Changelog
+-------------------
+
+
+----------
+
+This page contains a summary of changes between the official DokuWiki releases. Only the biggest changes are listed here. A complete and detailed log of all changes is available through the [[http://docs.ylly.co/release_notes.html|YLLY DOCS]].
+
+Changes marked with :!: need some attention on upgrading!
