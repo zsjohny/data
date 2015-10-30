@@ -60,6 +60,7 @@ Will support the function
 
  * Simplenavi [plugin:simplenavi](https://www.dokuwiki.org/plugin:simplenavi)
 
+ * Backup page, revision history, media, configuration, etc. All the content [plugin:backup](https://www.dokuwiki.org/plugin%3Abackup) 
 
 Frequently Asked Questions
 --------------------------
