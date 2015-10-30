@@ -66,6 +66,8 @@ Will support the function
 
  * Present a table of contents of the pages of a selected namespace [Note Plugin](https://www.dokuwiki.org/plugin%3Anote)
 
+ * Show which groups exist, what their namespace and page permissions are and which users are in which groups. [Permission Info Plugin](https://www.dokuwiki.org/plugin:permissioninfo)
+
 
 
 Frequently Asked Questions
