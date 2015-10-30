@@ -1,1 +1,2 @@
 Base the plugins functions add  instructions
+:namepace
