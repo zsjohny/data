@@ -27,4 +27,4 @@ More suggestions
 
 ------------
 
-- [[suggestion]]
+- [[Suggestion]]
