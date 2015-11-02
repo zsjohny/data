@@ -15,7 +15,7 @@
 
   * Markdown 语法 [帮助](http://wowubuntu.com/markdown/)
   * DokuWiki 手册 [帮助](https://www.dokuwiki.org/manual)
-  * YLLYWiki 手册 [帮助](ylly_manual)
+  * YLLYWiki 手册 [帮助](:ylly_manual)
   * DokuWiki 语法 [帮助](https://www.dokuwiki.org/wiki:syntax)
 
 
@@ -79,7 +79,7 @@
 
 **通常的题**
 
-* 8-o[[忘记了密码]]
+* 8-o[[:I forgot my password]]
 
 * [为什么没有登录按钮？](https://www.dokuwiki.org/faq:login)
 
@@ -88,56 +88,60 @@
 
 **Usage**
 
-* [How to add pages?](https://www.dokuwiki.org/page#create_a_page)
+* [如何添加页面?](https://www.dokuwiki.org/page#create_a_page)
 
-* [How to delete pages?](https://www.dokuwiki.org/page#delete_a_page)
+* [如何删除页面?](https://www.dokuwiki.org/page#delete_a_page)
 
-* [How to rename pages?](https://www.dokuwiki.org/faq:howto-rename-pages)
+* [如何重命名页面?](https://www.dokuwiki.org/faq:howto-rename-pages)
 
-* [How to make a redirect page?](https://www.dokuwiki.org/faq:redirect)
+* [如何重定向一个页面?](https://www.dokuwiki.org/faq:redirect)
 
-* [How to add a sidebar?](https://www.dokuwiki.org/faq:sidebar)
+* [如何添加一个sidebar?](https://www.dokuwiki.org/faq:sidebar)
 
-* [Keeping newlines as is?](https://www.dokuwiki.org/faq:newlines)
+* [新行?](https://www.dokuwiki.org/faq:newlines)
 
-* [How can I make some pages non-writable?](https://www.dokuwiki.org/faq:pageprotect)
+* [我怎样才能让某些页面不可写？](https://www.dokuwiki.org/faq:pageprotect)
 
-* [HTML does not work](https://www.dokuwiki.org/faq:html)
+* [HTML 不工作怎么办？](https://www.dokuwiki.org/faq:html)
 
-* [Deleting media files](https://www.dokuwiki.org/faq:deletemedia)
+* [如何删除媒体文件？](https://www.dokuwiki.org/faq:deletemedia)
 
-* [How do you upload files?](https://www.dokuwiki.org/faq:upload)
+* [如何上传文件?](https://www.dokuwiki.org/faq:upload)
 
-* [Don't cache external images?](https://www.dokuwiki.org/faq:nocache)
+* [不能缓存外部图像?](https://www.dokuwiki.org/faq:nocache)
 
-* [How do I display Version Information?](https://www.dokuwiki.org/faq:version)
+* [如何展示版本信息n?](https://www.dokuwiki.org/faq:version)
 
-* [How do I get Edit buttons to appear for section editing a page?](https://www.dokuwiki.org/faq:sectionedit)
+* [我如何获取编辑按钮在部分编辑页面?](https://www.dokuwiki.org/faq:sectionedit)
 
-* [Links or Formatting in Headlines](https://www.dokuwiki.org/faq:headerlinks)
+* [标题格式](https://www.dokuwiki.org/faq:headerlinks)
 
-* [How do I pre-insert some default text in newly created pages?](https://www.dokuwiki.org/faq:namespace_templates)
+* [我如何预插入一些默认的文本在新创建的页面？](https://www.dokuwiki.org/faq:namespace_templates)
 
-* [Can I reverse the header syntax?](https://www.dokuwiki.org/faq:reverse_headers)
+* [我可以反转 header语法吗?](https://www.dokuwiki.org/faq:reverse_headers)
 
-* [How to quote characters?](https://www.dokuwiki.org/faq:quoting)
+* [如何引用字符?](https://www.dokuwiki.org/faq:quoting)
 
-* [Notifications and Subscriptions](https://www.dokuwiki.org/faq:notifications)
+* [通知和订阅](https://www.dokuwiki.org/faq:notifications)
 
-* [Working Lists](https://www.dokuwiki.org/faq:lists)
+* [工作列表](https://www.dokuwiki.org/faq:lists)
 
-* [How to backup DokuWiki](https://www.dokuwiki.org/faq:backup)
+* [如何备份 DokuWiki](https://www.dokuwiki.org/faq:backup)
 
 
-**Troubleshooting**
+**故障排除**
 
-Changelog
+...... TODO
+
+
+更新日志
 -------------------
 
 
 ----------
 
-This page contains a summary of changes between the official DokuWiki releases. Only the biggest changes are listed here. A complete and detailed log of all changes is available through the [[http://docs.ylly.co/release_notes.html|YLLY DOCS]].
+这个页面包含一个总结官方DokuWiki版本之间的变化。这里只列出了最大的变化。一个完整和详细的所有更改的日志可以通过[[http://docs.ylly.co/release_notes.html |文档]]。
+
 
 
 - FIXME **fix javascript link not compatibility with ie**
@@ -147,7 +151,7 @@ This page contains a summary of changes between the official DokuWiki releases. 
 - FIXME **Fix sailings count after daily update, refine daily tasks**
 
 
-Download
+下载
 -------------------
 
 
@@ -160,4 +164,4 @@ Download
 ----------
 :!: **More suggestion ,please jump to the message board.**
 
-[[Message board]]
+[[:Message board]]
