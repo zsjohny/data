@@ -15,7 +15,7 @@
 
   * Markdown 语法 [帮助](http://wowubuntu.com/markdown/)
   * DokuWiki 手册 [帮助](https://www.dokuwiki.org/manual)
-  * YLLYWiki 手册 [帮助](:ylly_manual)
+  * YLLYWiki 手册 [帮助](en:ylly_manual)
   * DokuWiki 语法 [帮助](https://www.dokuwiki.org/wiki:syntax)
 
 
@@ -79,7 +79,7 @@
 
 **通常的题**
 
-* 8-o[[:I forgot my password|我忘了密码]]
+* 8-o[[:en:I forgot my password|我忘了密码]]
 
 * [为什么没有登录按钮？](https://www.dokuwiki.org/faq:login)
 
@@ -164,4 +164,4 @@
 ----------
 :!: **More suggestion ,please jump to the message board.**
 
-[[:Message board]]
+[[:en:Message board]]

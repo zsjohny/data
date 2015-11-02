@@ -1,3 +1,0 @@
-This page in English.
-
-Just for testing UI language plugin
