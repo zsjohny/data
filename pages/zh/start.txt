@@ -79,7 +79,7 @@
 
 **通常的题**
 
-* 8-o[[:I forgot my password]]
+* 8-o[[:I forgot my password|我忘了密码]]
 
 * [为什么没有登录按钮？](https://www.dokuwiki.org/faq:login)
 
