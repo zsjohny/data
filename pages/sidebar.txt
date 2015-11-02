@@ -25,4 +25,4 @@ More suggestions
 
 ------------
 
-- [[Message Board]]
+- [[suggestion]]
