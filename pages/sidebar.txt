@@ -4,7 +4,7 @@ Page tree
 
 ----------
 
-- [[start|Home]]
+- [[start|English Home]]
 
 - [[zh:start|Chinese Home]]
 
