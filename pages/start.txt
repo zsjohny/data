@@ -5,7 +5,7 @@ Welcome to the World cruises Wiki
 ----------
 
 
-Quiuick Start Guide
+Quick Start Guide
 -------------------
 
 
@@ -22,7 +22,7 @@ Quiuick Start Guide
   * :?:[[https://github.com/360youlun/devops/wiki|More Devops help,Please click me!]]
   * :?:[[https://github.com/360youlun/youlun/wiki|More Youlun help,Please click me!]]
 
-The current support functions
+The Current Support functions
 -------------------
 
 
@@ -37,7 +37,7 @@ The current support functions
 
  * [UI Language](https://www.dokuwiki.org/plugin:uilanguage?s[]=dokuwiki&s[]=plugin&s[]=uilanguage)
 
-Will support the function
+Will Support Function
 -------------------------
 
 
