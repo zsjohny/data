@@ -1,4 +1,4 @@
 
 Page tree
 
-{{simplenavi>:start}}
+{{ylly_manual}}
