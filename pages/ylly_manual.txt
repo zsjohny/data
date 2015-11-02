@@ -5,3 +5,4 @@ Functions:
   - More [[Message board|suggesttion]]
   - [Create a simple navigation tree](https://www.dokuwiki.org/plugin:simplenavi) based on namespaces
   - Add [comments area](https://www.dokuwiki.org/plugin:discussion)
+  - Edit [[sidebar]] to help you generate new a sidebar
