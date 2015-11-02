@@ -1,5 +1,4 @@
 
 Page tree
 
-{{simplenavi>some:message_board}}
-{{simplenavi>some:start}}
+{{simplenavi>start}}
