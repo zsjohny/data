@@ -1,1 +1,1 @@
-~~DISCUSSION|Custom Title String~~
+{{threads>*}}
