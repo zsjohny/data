@@ -6,7 +6,7 @@ Page tree
 
 - [[start|English Home]]
 
-- [[zh:start|Chinese Home]]
+- [[:zh:start|Chinese Home]]
 
 - [[start#Quiuick Start Guide|Quiuick Start Guide]]
 
