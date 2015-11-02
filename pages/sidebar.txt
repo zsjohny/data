@@ -6,6 +6,8 @@ Page tree
 
 - [[start|Home]]
 
+- [[zh:start|Chinese HOME]]
+
 - [[start#Quiuick Start Guide|Quiuick Start Guide]]
 
 - [[start#Frequently Asked Questions|FAQ]]
