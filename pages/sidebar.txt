@@ -2,6 +2,8 @@
 Page tree
 ---------
 
+----------
+
 - [[start|Home]]
 
 - [[start#Quiuick Start Guide|Quiuick Start Guide]]
@@ -9,3 +11,18 @@ Page tree
 - [[start#Frequently Asked Questions|FAQ]]
 
 - [[start#Download|Download]]
+
+Department to guide
+------------
+
+-----------
+
+
+
+
+More suggestions
+------------
+
+--------------
+
+[[Message Board]]
